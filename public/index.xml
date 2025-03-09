@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on rizakara</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on rizakara</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello world!</title>
+      <link>http://localhost:1313/post/2025/03/09/hello-world/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025/03/09/hello-world/</guid>
+      <description>&lt;p&gt;well. hello, friend.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://imgs.xkcd.com/comics/internal_monologues.png&#34; alt=&#34;Internal Monologues&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;comic by &lt;a href=&#34;https://xkcd.com/2057&#34;&gt;xkcd&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>çavdar tarlasında ezgiler</title>
+      <link>http://localhost:1313/post/2021/04/28/cavdar-tarlasinda-ezgiler/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021/04/28/cavdar-tarlasinda-ezgiler/</guid>
+      <description>&lt;p&gt;hayır, karma gerçek değil. beni incitemez.&lt;/p&gt;&#xA;&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/2F8XOKUkWnQegPqETRCD7k?utm_source=generator&amp;theme=0&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>bir çapa, bir votka, bir ılık meltem</title>
+      <link>http://localhost:1313/post/2021/04/21/bir-capa-bir-votka-bir-ilik-meltem/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021/04/21/bir-capa-bir-votka-bir-ilik-meltem/</guid>
+      <description>&lt;p&gt;çarşamba çöpü ve perşembenin nikahlı belalısı. hayır, geçmişte kalmadı. şimdi!&lt;/p&gt;&#xA;&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/7hnmeXeIUx5Dtyq6FhljR7?utm_source=generator&amp;theme=0&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+baseurl = "https://rizakara.github.io"
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+languageCode = "en-us"
+theme = "hugo-classic"
+title = "rizakara"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+name = "Brainstorms"
+url = "/categories/brainstorms"
+weight = 1
+[[menu.main]]
+name = "Playlists"
+url = "/categories/playlists/"
+weight = 2
+
+
+[[menu.feed]]
+name = "Subscribe"
+url = "/index.xml"
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "A simple, minimal blog for those who love text."
+footer = "CC BY-ND 4.0 unless otherwise noted. | Icon by [Freepik.](https://freepik.com) | [rizakara@outlook.com](mailto:rizakara@outlook.com) | [GnuPG: 20C9 00E0 EBBE 224D 69E8 F562 442F AC19 0906 E965](https://keyserver.ubuntu.com/pks/lookup?search=rizakara%40outlook.com&fingerprint=on&op=index)"
